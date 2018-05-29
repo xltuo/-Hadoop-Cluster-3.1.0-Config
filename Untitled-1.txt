@@ -1,0 +1,4 @@
+ssh-copy-id -i ~/.ssh/id_rsa.pub hadoopmaster
+ssh-copy-id -i ~/.ssh/id_rsa.pub hadoopslave1
+ssh-copy-id -i ~/.ssh/id_rsa.pub hadoopslave2
+ssh-copy-id -i ~/.ssh/id_rsa.pub hadoopslave3
